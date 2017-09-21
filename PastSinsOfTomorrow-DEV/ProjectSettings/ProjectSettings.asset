@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-  productGUID: 0236388f8b8044844a4654c4b2a9565c
+  productGUID: cd00d0042e0409648b408dd2c0366865
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
@@ -589,9 +589,9 @@ PlayerSettings:
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 8e002946-a7c9-420b-9128-59195f30be92
-  projectName: PastSinsOfTomorrow-DEV (1)
-  organizationId: alexander-edwin-kay-glover
+  cloudProjectId: 
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
