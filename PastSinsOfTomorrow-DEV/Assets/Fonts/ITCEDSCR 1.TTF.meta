@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4e7b482bb99c00a47a0ff2d59a47c3e6
+timeCreated: 1505952462
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Edwardian Script ITC
+  fontNames:
+  - Edwardian Script ITC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

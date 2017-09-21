@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: de65451c00cb59e4784d2edba65d64be
+timeCreated: 1505952802
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Leelawadee UI
+  fontNames:
+  - Leelawadee UI
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 628d4816cb0b5d947b3288c21eda940a, type: 3}
+  - {fileID: 12800000, guid: 25a00d4662623784aabc6a9956327163, type: 3}
+  - {fileID: 12800000, guid: da608ada1dc9eab40bd3cee39dd99c21, type: 3}
+  - {fileID: 12800000, guid: 42edd2bee61373245a95c61e61737564, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

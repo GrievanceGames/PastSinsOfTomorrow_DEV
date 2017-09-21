@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 89a8721b21f99594db45f1f6575c7b15
+timeCreated: 1505952504
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Century
+  fontNames:
+  - Century
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0c46a0086613cc84696eb0869b68528b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

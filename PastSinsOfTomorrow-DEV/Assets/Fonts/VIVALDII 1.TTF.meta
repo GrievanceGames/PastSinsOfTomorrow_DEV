@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 98d46a1e340a68d4190e0108a039c521
+timeCreated: 1505952514
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vivaldi
+  fontNames:
+  - Vivaldi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 59f88831d0659b34d8e90d91452e7c36, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

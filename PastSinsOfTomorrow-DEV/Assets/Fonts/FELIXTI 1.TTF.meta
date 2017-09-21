@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a6a43e99149b1094b82b3e2f5613d9e3
+timeCreated: 1505952604
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Felix Titling
+  fontNames:
+  - Felix Titling
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8ea1715ebe432154d9db0ba8733dec9a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

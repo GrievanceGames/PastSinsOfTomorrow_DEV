@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e58dadf21527507488a226f3c4def629
+timeCreated: 1505952805
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kristen ITC
+  fontNames:
+  - Kristen ITC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b1d1cc4ae526f964783fbf8cf0a8d25f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

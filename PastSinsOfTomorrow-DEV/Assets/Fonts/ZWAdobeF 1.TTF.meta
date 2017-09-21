@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d55ab04dc0afc4c40a574b317e9e1872
+timeCreated: 1505952794
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ZWAdobeF
+  fontNames:
+  - ZWAdobeF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c8629f1e34d9726418e435ff2e119efb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

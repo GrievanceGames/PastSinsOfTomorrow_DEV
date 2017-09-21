@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: ecbf92806eddf014a8d89c9ef2e0baad
+timeCreated: 1505952810
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Segoe WP
+  fontNames:
+  - Segoe WP
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cf38eea03dcb83a49a50779de6b41cdf, type: 3}
+  - {fileID: 12800000, guid: cdcdca22a4b484e418a1d1e4a4f0c6f7, type: 3}
+  - {fileID: 12800000, guid: b2a5d952545b52443a3d529b43ba53ce, type: 3}
+  - {fileID: 12800000, guid: 3b6abc92212a6f441ad03cb30c926b43, type: 3}
+  - {fileID: 12800000, guid: 4de92ef21c5cdf647915ce89c7b3ceb2, type: 3}
+  - {fileID: 12800000, guid: 64e3aa239c064da4f973d299372d977c, type: 3}
+  - {fileID: 12800000, guid: 352e45e5afd9640478c104dbf5198a34, type: 3}
+  - {fileID: 12800000, guid: 9483eb468cdbb3242a6503723c27fe34, type: 3}
+  - {fileID: 12800000, guid: 01fe18ea2cc7e514eaee51b9c2ecf87e, type: 3}
+  - {fileID: 12800000, guid: 3f6f214ba57f37240ae3b61339f0ab52, type: 3}
+  - {fileID: 12800000, guid: 3933148f54829fc498db83049f7de586, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

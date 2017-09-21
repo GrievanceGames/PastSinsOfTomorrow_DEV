@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b972dc958b9ee2145addf4c9011ef8bb
+timeCreated: 1505952613
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Segoe Marker
+  fontNames:
+  - Segoe Marker
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33bddd9cca49df34287aebc2c28538d3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

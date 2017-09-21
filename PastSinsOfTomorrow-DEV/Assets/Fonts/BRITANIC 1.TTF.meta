@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: daabafa04e5448043ae80f3a6cc62261
+timeCreated: 1505952798
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Britannic Bold
+  fontNames:
+  - Britannic Bold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 262477a552be5544583327ebc5a9544d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

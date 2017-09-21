@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c20c0fdfd244e664382483d5ee8fe7d1
+timeCreated: 1505952706
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gill Sans MT Condensed
+  fontNames:
+  - Gill Sans MT Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 815da9485e7c4c34ca7d4053cfc690b2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

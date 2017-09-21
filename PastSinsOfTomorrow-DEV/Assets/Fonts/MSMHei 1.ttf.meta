@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c21b44655aebad74b92bd0edf81db214
+timeCreated: 1505952706
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Microsoft MHei
+  fontNames:
+  - Microsoft MHei
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8af73e863e28d914bbc148ae4d3a1113, type: 3}
+  - {fileID: 12800000, guid: 06634ebc39f6edc40bcfc88cebf50345, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

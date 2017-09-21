@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8c4557119d9a2a048b378dc7aff5f58a
+timeCreated: 1505952505
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Microsoft NeoGothic
+  fontNames:
+  - Microsoft NeoGothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 354ca547d21a7284f93831209f7800b4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

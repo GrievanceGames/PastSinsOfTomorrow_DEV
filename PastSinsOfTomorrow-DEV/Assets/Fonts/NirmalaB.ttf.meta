@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: a3118afe5ff5b1546b1c43db8f41879e
+timeCreated: 1505952603
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nirmala UI
+  fontNames:
+  - Nirmala UI
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9d25afc2dbf21214da1e5166777909ee, type: 3}
+  - {fileID: 12800000, guid: 09af9ca5b855a884f881c05b417b9019, type: 3}
+  - {fileID: 12800000, guid: 10c1701904433b345a4dc7250ed2a985, type: 3}
+  - {fileID: 12800000, guid: 9ad6908e4ecbddc40bf5f191f0fcf6ae, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

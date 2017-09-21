@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1d8d3232db30ca24383332a1eed7504b
+timeCreated: 1505952426
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rage Italic
+  fontNames:
+  - Rage Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

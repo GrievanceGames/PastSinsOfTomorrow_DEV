@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 17b602a4e0ff35d46941e6cb4ab66fea
+timeCreated: 1505952425
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Old English Text MT
+  fontNames:
+  - Old English Text MT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

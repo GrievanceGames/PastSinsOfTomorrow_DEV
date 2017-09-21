@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: beac3a71f1582004fb31015d2f673d8b
+timeCreated: 1505952616
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Script MT Bold
+  fontNames:
+  - Script MT Bold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9f3da09dbf5a75c41a0919259c33c5eb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6602a68f62498ba4b95f73df1e50af8f
+timeCreated: 1505952487
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tempus Sans ITC
+  fontNames:
+  - Tempus Sans ITC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

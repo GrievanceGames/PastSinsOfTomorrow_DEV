@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3856961010c58b64baac4706dc7330c0
+timeCreated: 1505952452
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Microsoft New Tai Lue
+  fontNames:
+  - Microsoft New Tai Lue
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 248df148b75747a4b92585770e36597f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

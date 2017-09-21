@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 545fa097ee1ad8d429771f4032e348c3
+timeCreated: 1505952481
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Segoe Print
+  fontNames:
+  - Segoe Print
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 196b6bd2ff2bd0a45ab118e448ffd56d, type: 3}
+  - {fileID: 12800000, guid: 43e6182d0fd2f9f4398f21066dc73a82, type: 3}
+  - {fileID: 12800000, guid: 0180ebbe112e26e44ac2801e43d4a9fd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 76c23cd9c4752c44095b146c2f892f52
+timeCreated: 1505952499
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Buxton Sketch
+  fontNames:
+  - Buxton Sketch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5284f4dd7e44d6f42a770b2aef8c110d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

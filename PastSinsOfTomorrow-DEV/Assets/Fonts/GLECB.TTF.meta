@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 466114d42c2203249b6c5c016b48c868
+timeCreated: 1505952458
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gloucester MT Extra Condensed
+  fontNames:
+  - Gloucester MT Extra Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 05e8ae5fe585b9349ad8f664908043ac, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

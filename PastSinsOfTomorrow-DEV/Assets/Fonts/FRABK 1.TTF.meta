@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cd2ac2431fd466146a363751ed622817
+timeCreated: 1505952790
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Franklin Gothic Book
+  fontNames:
+  - Franklin Gothic Book
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 59a74be3847a3ab4cb2840989ada4dc7, type: 3}
+  - {fileID: 12800000, guid: 3eedbfd7e0b5e2849be4b7f8f9f8df26, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

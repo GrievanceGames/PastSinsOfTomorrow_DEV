@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c4b8460963fae70478c2e2e459163e3d
+timeCreated: 1505952706
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: High Tower Text
+  fontNames:
+  - High Tower Text
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2a65e7334c21e7a4f9c4dc920c661285, type: 3}
+  - {fileID: 12800000, guid: 3528920c314518e4e89de3a85abb62c6, type: 3}
+  - {fileID: 12800000, guid: 0b7f0b0e963c7e14ab2df027bec158f5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

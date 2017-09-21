@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 60b1530628bee3f41b7db2e197c09d70
+timeCreated: 1505952485
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gadugi
+  fontNames:
+  - Gadugi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 39ef164d437871449bd992f1448d6fc0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
